@@ -1,0 +1,11 @@
+body {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: Open Sans;
+}
+
+label {
+    display: block;
+    margin: 10px 0px;
+}
