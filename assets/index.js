@@ -19,7 +19,7 @@ function submitForm(event) {
 	var formData = {
 		name: getFormValue("name"),
 	};
-
+	// add exercise logic here
 	sendData(formData);
 }
 
